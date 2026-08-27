@@ -28,7 +28,7 @@ Key Concepts Learned:
 * Basic network security assessment
 
 Files
-1. 'Task1(Open port Scan).pdf' – Detailed task report
+1. 'Task1.htm' – Detailed task report
 2. 'nmap_scan.txt' – Nmap scan output
 3. 'Packet_capture.pcapng' - Packets captured using Wireshark
 4. 'README.md' – Task overview
