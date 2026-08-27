@@ -4,8 +4,8 @@ Task 1: Local Network Port Scanning and Security Risk Assessment using Nmap and 
 Objective: To perform basic network reconnaissance by identifying active devices and open ports on a local network and assessing the potential security risks associated with exposed services.
 
 Tools Used:
-Nmap – Network scanning and port discovery
-Wireshark – Basic network traffic analysis
+1. Nmap – Network scanning and port discovery
+2. Wireshark – Basic network traffic analysis
 
 What I Did:
 * Identified the local network range.
