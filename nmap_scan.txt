@@ -1,0 +1,51 @@
+# Nmap 7.98 scan initiated Thu Aug 27 17:50:44 2026 as: nmap -sS -oN C:\\Users\\jenni\\Desktop\\nmap_scan.txt 192.168.88.0/24
+Nmap scan report for 192.168.88.1
+Host is up (0.022s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+23/tcp   open  telnet
+53/tcp   open  domain
+80/tcp   open  http
+1900/tcp open  upnp
+MAC Address: 3C:78:95:E6:C6:51 (Unknown)
+
+Nmap scan report for 192.168.88.2
+Host is up (0.016s latency).
+All 1000 scanned ports on 192.168.88.2 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 76:CC:D3:B0:5E:33 (Unknown)
+
+Nmap scan report for 192.168.88.3
+Host is up (0.023s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+23/tcp   open  telnet
+53/tcp   open  domain
+80/tcp   open  http
+443/tcp  open  https
+1900/tcp open  upnp
+MAC Address: 3C:78:95:E6:98:25 (Unknown)
+
+Nmap scan report for 192.168.88.4
+Host is up (0.025s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+6000/tcp open  X11
+MAC Address: 7C:57:58:26:33:CE (HP)
+
+Nmap scan report for 192.168.88.6
+Host is up (0.00012s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+
+# Nmap done at Thu Aug 27 17:50:55 2026 -- 256 IP addresses (5 hosts up) scanned in 11.46 seconds
