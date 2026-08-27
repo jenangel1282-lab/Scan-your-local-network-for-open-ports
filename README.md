@@ -30,6 +30,6 @@ Key Concepts Learned:
 Files
 1. 'Task1.htm' – Detailed task report
 2. 'nmap_scan.txt' – Nmap scan output
-3. 'Packet_capture.pcapng' - Packets captured using Wireshark
+3. 'Packet_capture.txt' - Packets captured using Wireshark
 4. 'README.md' – Task overview
 
